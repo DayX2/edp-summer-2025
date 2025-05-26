@@ -1,0 +1,3 @@
+messages = []
+
+print(messages)
