@@ -23,3 +23,4 @@ class Sensor:
         self.animal = animal
 
 s1 = Sensor("Temp", 215, "Electronic", "Tiger")
+print("my_sensor", s1.name, s1.id)
