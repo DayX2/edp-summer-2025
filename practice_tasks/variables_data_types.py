@@ -16,7 +16,7 @@ sensor_type = "Temperature"
 sensor_location = "East Zone" 
 
 
-animal_name = "Lion"   
+animal_name = "Crab"   
 cage_number = 12           
 temperature = 27.5          
 
